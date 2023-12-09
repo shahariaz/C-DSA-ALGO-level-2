@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/C++/level-2/level-2/Array",
-      "program": "d:/C++/level-2/level-2/Array/build/Debug/outDebug",
+      "cwd": "c:/Users/SHAHARIAZ/Documents/MERN/frontend/DSA/level-2/Array",
+      "program": "c:/Users/SHAHARIAZ/Documents/MERN/frontend/DSA/level-2/Array/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
