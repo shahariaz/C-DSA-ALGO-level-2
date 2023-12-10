@@ -26,3 +26,6 @@ int main()
     cout<<sumOfSubArray(arr,n);
     return 0;
 }
+//this  brute force approach has time complexity of O(n^3)
+//now we will need to reduce time by doing optimization
+//for optimization we will use prefix sum
