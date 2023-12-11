@@ -1,7 +1,12 @@
-/*   1
-    2 2
-  3 3 3
-4 4 4 4 */
+/* 
+     *
+    * *
+   * * *
+  * * * *
+ * * * * *
+* * * * * *
+
+ */
 
 #include <iostream>
 
@@ -15,12 +20,12 @@ int main()
     for(i=1;i<=n;i++){
         int j;
         for(j=n;j>i;j--){
-            cout<<"  ";
+            cout<<" ";
 
         }
         for ( j = 1; j <=i; j++)
         {  
-            cout<<i<<" ";
+            cout<<"*"<<" ";
         }
         
         cout<<endl;
